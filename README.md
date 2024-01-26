@@ -7,7 +7,7 @@ This is a ToDo App , made entirely on Frontend Framework called "React" or "Next
 
 Steps to run:
 
-1. First, Go to folder "Tanishq-08-Rajnandgaon", Open Terminal here.
+1. First, Clone and Go to folder "React-Todo-List", Open Terminal here.
 
 2. Now, Install all Dependencies:
 
